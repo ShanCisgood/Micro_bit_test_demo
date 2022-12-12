@@ -1,5 +1,5 @@
 
-> 在 [https://shancisgood.github.io/micro_bit_test_demo/](https://shancisgood.github.io/micro_bit_test_demo/) 打開此頁面
+> 在 [https://shancisgood.github.io/microbit_test-fight/](https://shancisgood.github.io/micro_bit_test_demo/) 打開此頁面
 
 ## 作為擴充功能使用
 
